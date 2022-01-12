@@ -12,7 +12,7 @@ Simpel WhatsApp Bot
 > pkg install libwebp
 > git clone https://github.com/saipulanuar/v11
 > cd v11
-> git clone https://github.com/Lexxy24/node_modules
+> git clone https://github.com/saipulanuar/node_modules
 > npm start
 ```
 
@@ -36,6 +36,6 @@ https://github.com/clhuang/heroku-buildpack-webp-binaries.git
 ```
 > git clone https://github.com/saipulanuar/v11
 > cd v11
-> git clone https://github.com/Lexxy24/node_modules
+> git clone https://github.com/saipulanuar/node_modules
 > npm start
 ```
