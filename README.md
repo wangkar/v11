@@ -10,8 +10,8 @@ Simpel WhatsApp Bot
 > pkg install ffmpeg
 > pkg install imagemagick
 > pkg install libwebp
-> git clone https://github.com/Lexxy24/V11
-> cd V11
+> git clone https://github.com/saipulanuar/v11
+> cd v11
 > git clone https://github.com/Lexxy24/node_modules
 > npm start
 ```
@@ -34,8 +34,8 @@ https://github.com/clhuang/heroku-buildpack-webp-binaries.git
 * Download And Install ImageMagick [`Click Here`](https://imagemagick.org/script/download.php) (if nulis want work,  checklist columns 1,2,3,5,6)
 
 ```
-> git clone https://github.com/Lexxy24/V11
-> cd V11
+> git clone https://github.com/saipulanuar/v11
+> cd v11
 > git clone https://github.com/Lexxy24/node_modules
 > npm start
 ```
