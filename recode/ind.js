@@ -14,7 +14,7 @@ exports.menu = (prefix, simbol) => {
 return`=====[ 𝗟𝗶𝘀𝘁 𝗠𝗲𝗻𝘂 ]=====
 
 ❏ 𝙊𝙩𝙝𝙚𝙧𝙨
-${simbol} ${prefix}infobot
+${simbol} ${prefix}info
 ${simbol} ${prefix}cekprem
 ${simbol} ${prefix}scbot
 ${simbol} ${prefix}owner
